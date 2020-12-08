@@ -2,6 +2,7 @@
   {
     "name": "PPTVHD36",
     "url": "https://www.pptvhd36.com",
+    "icon": "https://favicons.githubusercontent.com/www.pptvhd36.com",
     "slug": "pptvhd-36",
     "status": "up",
     "uptime": "100.00%",
@@ -9,10 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2002,
-    "timeDay": 1957,
-    "timeWeek": 2002,
-    "timeMonth": 2002,
-    "timeYear": 2002
+    "time": 1999,
+    "timeDay": 1975,
+    "timeWeek": 1943,
+    "timeMonth": 1999,
+    "timeYear": 1999,
+    "dailyMinutesDown": {}
   }
 ]
