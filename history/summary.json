@@ -6,15 +6,15 @@
     "slug": "pptvhd-36",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.74%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
-    "time": 2042,
-    "timeDay": 2542,
-    "timeWeek": 2241,
-    "timeMonth": 2103,
-    "timeYear": 2042,
+    "time": 2047,
+    "timeDay": 2550,
+    "timeWeek": 2288,
+    "timeMonth": 2123,
+    "timeYear": 2047,
     "dailyMinutesDown": {
       "2021-03-02": 33
     }
