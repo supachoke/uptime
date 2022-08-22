@@ -4,18 +4,19 @@
     "url": "https://www.pptvhd36.com",
     "icon": "https://favicons.githubusercontent.com/www.pptvhd36.com",
     "slug": "pptvhd-36",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 3974,
+    "time": 3979,
     "timeDay": 5455,
     "timeWeek": 5124,
     "timeMonth": 5542,
     "timeYear": 4625,
     "dailyMinutesDown": {
+      "2022-08-22": 0,
       "2022-01-08": 39,
       "2021-10-06": 188
     }
