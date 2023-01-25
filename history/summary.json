@@ -4,18 +4,19 @@
     "url": "https://www.pptvhd36.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.pptvhd36.com.ico",
     "slug": "pptvhd-36",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5031,
+    "time": 5037,
     "timeDay": 5011,
     "timeWeek": 4836,
     "timeMonth": 5088,
     "timeYear": 5549,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-09-01": 25
     }
   }
